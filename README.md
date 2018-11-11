@@ -1,3 +1,3 @@
 # Sudoku
 
-Python script explores patterns used to solve Sudokus. 
+Project hosts Python scripts that explore patterns used to solve Sudokus. 
